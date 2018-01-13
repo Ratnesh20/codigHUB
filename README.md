@@ -1,2 +1,2 @@
 # codigHUB
-This repository contains all the assests of the coding competatio
+This repository contains all the assests of the coding competation
